@@ -1,0 +1,12 @@
+/build
+build
+local.properties
+.gradle*
+.idea
+.DS_Store
+*.log
+*.apk
+*.swp
+*.iml
+app/src/main/res/values/com_crashlytics_export_strings.xml
+app/src/main/assets/crashlytics-build.properties
